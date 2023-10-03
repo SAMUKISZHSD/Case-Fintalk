@@ -1,3 +1,5 @@
+<img align="center"   src="">
+
 # DESAFIO DE JAVASCRIPT FINTALK
 
 **Exercício 1: Verificador de Palíndromos**
