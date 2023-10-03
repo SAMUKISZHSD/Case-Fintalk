@@ -1,4 +1,4 @@
-<img align="center"   src="">
+<img align="center"   src="https://github.com/SAMUKISZHSD/Case-Fintalk/blob/main/exercicio%201/logo.webp">
 
 # DESAFIO DE JAVASCRIPT FINTALK
 
